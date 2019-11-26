@@ -1,6 +1,6 @@
 ---
 title: "Manufacturing Department Document Requests"
-linkTitle: "Manufacturing Department Document Requests"
+linkTitle: "Document Requests"
 weight: 1
 description: >
   This provides an overview of Manufacturing Document Requests
