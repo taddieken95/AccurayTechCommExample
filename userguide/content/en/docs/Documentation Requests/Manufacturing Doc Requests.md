@@ -1,3 +1,11 @@
+---
+title: "Manufacturing Department Document Requests"
+linkTitle: "AManufacturing Department Document Requests"
+weight: 1
+description: >
+  Setting up your doc request dash board.
+---
+
 # Manufacturing Department Document Requests
 
 ## Configure Agile Interface
