@@ -3,7 +3,7 @@ title: "Manufacturing Department Document Requests"
 linkTitle: "Manufacturing Department Document Requests"
 weight: 1
 description: >
-  Setting up your doc request dash board.
+  This section should be used as a reference for developing an understanding of FrameMaker and why Accuray currently uses it for documentation purposes.
 ---
 
 # Manufacturing Department Document Requests
