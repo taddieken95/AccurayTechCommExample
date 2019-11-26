@@ -1,7 +1,7 @@
 ---
 title: "ECRs"
 linkTitle: "ECRs"
-weight: 1
+weight: 2
 description: >
   An overview of ECRs at Accuray.
 ---
