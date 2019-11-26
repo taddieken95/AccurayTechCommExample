@@ -1,6 +1,6 @@
 ---
 title: "Manufacturing Department Document Requests"
-linkTitle: "AManufacturing Department Document Requests"
+linkTitle: "Manufacturing Department Document Requests"
 weight: 1
 description: >
   Setting up your doc request dash board.
