@@ -3,7 +3,7 @@ title: "Voicing"
 linkTitle: "3.0 Voicing"
 weight: 3
 description: >
-  Support multiple languages in your site.
+  This chapter provides further information regarding voicing when producing technical documentation at Accuray
 ---
 
 
