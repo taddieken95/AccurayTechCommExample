@@ -3,7 +3,7 @@ title: "Manufacturing Department Document Requests"
 linkTitle: "Manufacturing Department Document Requests"
 weight: 1
 description: >
-  This section should be used as a reference for developing an understanding of FrameMaker and why Accuray currently uses it for documentation purposes.
+  This provides an overview of Manufacturing Document Requests
 ---
 
 # Manufacturing Department Document Requests
